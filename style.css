@@ -7,16 +7,16 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #f1f5f9;
+    background: #eaf2ff;
     color: #1e293b;
     line-height: 1.6;
 }
 
 header {
-    background: #2563eb;
+    background: #1d4ed8;
     color: white;
     text-align: center;
-    padding: 35px 20px;
+    padding: 40px;
 }
 
 header h1 {
